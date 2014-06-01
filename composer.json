@@ -1,5 +1,5 @@
 {
-    "name": "firsyura/adaptivepayments-sdk-php",
+    "name": "daxpresents/adaptivepayments-sdk-php",
     "description": "PayPal adaptivepayments SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "homepage": "https://developer.paypal.com",
@@ -13,7 +13,7 @@
     "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/firsyura/sdk-core-php"
+        "url": "https://github.com/daxpresents/sdk-core-php"
       }
     ],
     "require": {
